@@ -16,10 +16,9 @@
       puts "Fizz"
     elseif number % 5 === 0
       puts "Buzz"
-    else 
+    else
+      puts number
     end
-    
-      
   end
  end
 
