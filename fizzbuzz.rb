@@ -14,6 +14,7 @@
       puts "FizzBuzz"
     else number % 3 === 100
       puts "Fizz"
+    
       
   end
  end
