@@ -21,5 +21,5 @@ WINNING_COMBINATIONS = [
     winning_combination.each do |number|
         puts number
     end
-  end
+  end 
   end
