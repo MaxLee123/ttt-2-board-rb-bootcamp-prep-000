@@ -19,7 +19,9 @@ WINNING_COMBINATIONS = [
   
   WINNING_COMBINATIONS.each do |winning_combination|
     winning_combination.each do |number|
-        puts number
+        puts "The number is: #{number}!"
     end
   end 
   end
+  
+  
