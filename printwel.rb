@@ -25,3 +25,9 @@ WINNING_COMBINATIONS = [
   end
   
   
+  board = [
+    ["", "", ""],
+    ["", "", ""],
+    ["", "", ""]
+    ]
+  
